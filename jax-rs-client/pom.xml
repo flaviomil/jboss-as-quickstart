@@ -54,7 +54,7 @@
         <!-- <version.jboss.bom>1.0.4.Final-redhat-4</version.jboss.bom> -->
 
         <!-- Other dependency versions -->
-        <version.org.apache.httpcomponents>4.1.4</version.org.apache.httpcomponents>
+        <version.org.apache.httpcomponents>4.4.15</version.org.apache.httpcomponents>
 
         <!-- other plugin versions -->
         <version.compiler.plugin>2.3.1</version.compiler.plugin>
