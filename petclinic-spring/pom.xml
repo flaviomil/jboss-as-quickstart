@@ -78,7 +78,7 @@
         <hibernate-validator.version>4.3.1.Final</hibernate-validator.version>
 
         <!-- Logging -->
-        <version.logback>1.0.13</version.logback>
+        <version.logback>1.5.19</version.logback>
         <version.slf4j>1.7.5</version.slf4j>
 
         <!-- RSS -->
@@ -98,7 +98,7 @@
         <version.webjars.bootstrap>2.3.0</version.webjars.bootstrap>
         <version.webjars.jquery>1.9.2</version.webjars.jquery>
         <version.webjars>1.9.0</version.webjars>
-        <version.dandelion.datatables>0.8.14</version.dandelion.datatables>
+        <version.dandelion.datatables>0.9.0</version.dandelion.datatables>
 
         <version.mysql>5.1.22</version.mysql>
 
