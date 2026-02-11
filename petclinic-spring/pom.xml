@@ -96,7 +96,7 @@
 
         <!-- Web dependencies -->
         <version.webjars.bootstrap>2.3.0</version.webjars.bootstrap>
-        <version.webjars.jquery>1.9.2</version.webjars.jquery>
+        <version.webjars.jquery>1.14.2</version.webjars.jquery>
         <version.webjars>1.9.0</version.webjars>
         <version.dandelion.datatables>0.8.14</version.dandelion.datatables>
 
